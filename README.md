@@ -4,7 +4,7 @@ Project for the TC DS Statistical Modeling Sprint.
 
 ## The Dashboard
 
-A Looker dashboard had to be created as a part of this project. It can be found [here](https://lookerstudio.google.com/).
+A Looker dashboard had to be created as a part of this project. It can be found [here](https://lookerstudio.google.com/reporting/16d8dfd0-05ba-4a0b-9790-0d725eb2fcb0).
 
 ## The Dataset
 
